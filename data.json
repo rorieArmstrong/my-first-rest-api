@@ -1,0 +1,16 @@
+{
+    "Houses":[
+        {
+            "Number":"1",
+            "Address":"",
+            "Ocupants":[{"name":"", "age":12}],
+            "Owner":""
+        },
+        {
+            "Number":"2",
+            "Address":"",
+            "Ocupants":[{"name":"", "age":20}, {"name":"", "age":90}],
+            "Owner":""
+        }
+    ]
+}
